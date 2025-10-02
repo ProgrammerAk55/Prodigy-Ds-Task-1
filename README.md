@@ -11,16 +11,17 @@
 - **Name**: `world_population_dataset.csv`  
 - **Years Covered**: 2001 – 2022  
 - **Content**: Country/region-wise population records  
-- 📂 [View Dataset][(world_population_dataset.csv) ](https://raw.githubusercontent.com/ProgrammerAk55/Prodigy-Ds-Task-1/refs/heads/main/worldpopulationdata%20(1).csv
-)<img width="97" height="30" alt="image" src="https://github.com/user-attachments/assets/932e4df0-df61-49b2-8f8f-d20f610c49af" />
- 
+- 📂 [View Dataset]https://raw.githubusercontent.com/ProgrammerAk55/Prodigy-Ds-Task-1/refs/heads/main/worldpopulationdata%20(1).csv
 ---
 
 ## ⚙️ Tools & Libraries 
 
 -Jupyter notebook
+
 -Pandas
+
 -Numpy
+
 -Matplotlip & Seaborn for visualization
 
 ---
