@@ -1,8 +1,10 @@
 # Prodigy-Ds-Task-1
 
-<p align="center">
-  <img src="Task-1.png" / >
-In this task, I carried out Exploratory Data Analysis (EDA) on the provided dataset, with a focus on visualizing the distribution of both categorical and continuous variables.
+<div style="text-align: center;">
+  <img src="Task-1.png" />
+</div>
+<p style="text-align: justify;">
+  This is my submission for Task 1 of the Data Science Internship at Prodigy Infotech. In this task, I carried out Exploratory Data Analysis (EDA) on the provided dataset, with a focus on visualizing the distribution of categorical and continuous variables.
 </p>
 
 ---
