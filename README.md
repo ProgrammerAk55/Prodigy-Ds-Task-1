@@ -1,8 +1,7 @@
 ## Prodigy Infotech-Ds-Task-1
 
 <div style="text-align: center;">
-  <img src="(https://github.com/ProgrammerAk55/Prodigy-Ds-Task-1/blob/main/Task-1.png)<img width="112" height="30" alt="image" src="https://github.com/user-attachments/assets/d272179c-d271-4f8a-8996-a15abbe07e1a" />
-" />
+  <img src="https://raw.githubusercontent.com/ProgrammerAk55/Prodigy-Ds-Task-1/main/Task-1.png" alt="Task 1 Banner" width="600" />
 </div>
 
 ---
@@ -39,11 +38,11 @@ This repo is part of my internship at Prodigy Infotech. I explored World Bank po
 
 ## ⚙️ Tools & Libraries Used
 
--Python (Jupyter Notebook)
+- Python (Jupyter Notebook)
 
--Pandas & NumPy for data manipulation
+- Pandas & NumPy for data manipulation
 
--Matplotlib & Seaborn for visualization
+- Matplotlib & Seaborn for visualization
 
 ---
 
@@ -71,17 +70,15 @@ Calculated population sums by decade (1960s to 2020s) and aggregated data for co
 
 ## 📌 Sample Visuals
 
-India’s Population Across Decades
-https://github.com/ProgrammerAk55/Prodigy-Ds-Task-1/blob/main/Decadal_Barplot.png
-<img width="97" height="30" alt="image" src="https://github.com/user-attachments/assets/9db0a202-1b56-4ccf-b0d4-49aa6c7eadb2" />
+### India’s Population Across Decades
+![BarPlot_India](https://raw.githubusercontent.com/ProgrammerAk55/Prodigy-Ds-Task-1/main/Decadal_Barplot.png)
 
-Population Distribution in the 2024
-https://github.com/ProgrammerAk55/Prodigy-Ds-Task-1/blob/main/Histogram.png
-<img width="97" height="30" alt="image" src="https://github.com/user-attachments/assets/0fe24fd6-ac50-4784-b668-c10248f97a1b" />
+### Population Distribution in 2024  
+![Histogram](https://raw.githubusercontent.com/ProgrammerAk55/Prodigy-Ds-Task-1/main/Histogram.png)
 
-Global Population Growth (Every 10 Years)
+### Global Population Growth (Every 10 Years)
 https://github.com/ProgrammerAk55/Prodigy-Ds-Task-1/blob/main/Graph%20Plot.png
-<img width="97" height="30" alt="image" src="https://github.com/user-attachments/assets/9b98a119-f526-4cee-9108-1423b5f74980" />
+![Graph Plot](https://github.com/ProgrammerAk55/Prodigy-Ds-Task-1/blob/main/Graph%20Plot.png)
 
 
 ---
