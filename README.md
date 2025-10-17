@@ -1,8 +1,8 @@
 ## Prodigy Infotech-Ds-Task-1
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/ProgrammerAk55/Prodigy-Ds-Task-1/main/Task-1.png" alt="Task 1 Banner" width="600" />
-</div>
+</p>
 
 ---
 
@@ -77,7 +77,6 @@ Calculated population sums by decade (1960s to 2020s) and aggregated data for co
 ![Histogram](https://raw.githubusercontent.com/ProgrammerAk55/Prodigy-Ds-Task-1/main/Histogram.png)
 
 ### Global Population Growth (Every 10 Years)
-https://github.com/ProgrammerAk55/Prodigy-Ds-Task-1/blob/main/Graph%20Plot.png
 ![Graph Plot](https://github.com/ProgrammerAk55/Prodigy-Ds-Task-1/blob/main/Graph%20Plot.png)
 
 
